@@ -2,8 +2,6 @@
 
 > *Smart Laboratory Inventory & Borrowing System*
 
-![UIT Banner](https://via.placeholder.com/1200x400?text=UNIMUS+Inventrack)
-
 ---
 
 ## 📌 About The Project
