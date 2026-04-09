@@ -130,7 +130,7 @@ This project is licensed under the **MIT License**
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Team Project
 
 Kelompok 3
 UNIMUS Inventrack Project
